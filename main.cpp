@@ -23,6 +23,7 @@ int main()
 	for (int i = 0; i < NUM_THREADS; ++i)
 	{
 		thread();
+		cout << "hello" << endl;
 	}
 
 	system("pause");
