@@ -31,7 +31,8 @@
 *.out
 *.app
 
-/Debug
+
 *.idb
 *.tlog
 Debug/worktest.tlog/link.read.1.tlog
+/Debug
